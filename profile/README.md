@@ -27,4 +27,4 @@ Website: https://neuroframe.com
 
 Super Overview: https://neuroframe.com/super/overview
 
-Pricing: https://neuroframe.com/pricing
+Pricing: https://neuroframe.com/super/pricing
